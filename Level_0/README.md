@@ -8,7 +8,7 @@ Sum of Digits:  Write a program that takes an integer as input and outputs the s
 
 Check if Vowel: Write a program that takes a character as input and determines if it's a vowel (a, e, i, o, u).
 
-Positive, Negative or Zero: Write a program that takes an integer as input and determines if it's positive, negative, or zero.
+Positive, Negative or Zero: Write a program that takes an integer as input and determines if it's positive, negative, or zero. ----- jul 15th
 
 Area of a Rectangle: Write a program that takes two integers as input (length and width) and outputs the area of a rectangle.
 
